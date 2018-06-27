@@ -1,6 +1,6 @@
 ### 多尺度融合 deeplab v2 版本实现 ， ResNet作为底层特征
 
-
+* [论文解读](https://github.com/jiye-ML/Semantic_Segmentation_Review.git)
 
 #### Training
 ```
